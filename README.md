@@ -3,9 +3,12 @@ Written by Matthew Guerrero
 -----------SETUP----------
 
 python version: 2.6
-to run filesystem.py, type "python filesystem.py"
+to run filesystem.py, call "python filesystem.py"
 some installs of python are called differently, for example it may be "py" or "./python" instead
 
+
+python version: 3.10.4
+to run the python 3 version, call "python filesystem_3.py"
 ----------COMMANDS---------
 
 ls - lists all files and sub directories
