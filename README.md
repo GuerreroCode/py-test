@@ -18,6 +18,8 @@ cd [directory name] - changes directory to listed directory
 
 touch [file names] - creates a list of files based on their names
 
+exit - closes the program
+
 ----------GETTING STARTED------
 
 after running the filesystem program, a home directory will be created.
