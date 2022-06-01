@@ -1,6 +1,7 @@
 Written by Matthew Guerrero
 
 -----------SETUP----------
+
 python version: 2.6
 to run filesystem.py, type "python filesystem.py"
 some installs of python are called differently, for example it may be "py" or "./python" instead
@@ -18,6 +19,7 @@ cd [directory name] - changes directory to listed directory
 touch [file names] - creates a list of files based on their names
 
 ----------GETTING STARTED------
+
 after running the filesystem program, a home directory will be created.
 With nothing inside the home directory, it is up to you to make directories and files to then navigate them
 Have fun!
